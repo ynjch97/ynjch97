@@ -37,7 +37,8 @@
   
   [![ynjch97's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynjch97&langs_count=5)](https://github.com/ynjch97)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fynjch97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fynjch97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F@ynjch97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Velog&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 

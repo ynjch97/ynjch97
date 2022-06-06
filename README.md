@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Soft&fontAlignY=45&color=FAECC5&section=header&text=EUN%20JY&fontColor=FF7012&fontSize=40&height=150&animation=twinkling&desc=Web%20Developer&descAlignY=70)
+  ![header](https://capsule-render.vercel.app/api?type=Soft&fontAlignY=45&color=C97200&section=header&text=EUN%20JY&fontColor=FFF6EB&fontSize=40&height=150&animation=twinkling&desc=Web%20Developer&descAlignY=70)
 
   ## Tech Stack
 

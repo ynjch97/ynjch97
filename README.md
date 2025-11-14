@@ -39,7 +39,7 @@
   
   ## Link
   
-  WIKI [https://github.com/ynjch97/YNJCH_WIKI](https://github.com/ynjch97/YNJCH_WIKI)  
+  WIKI [https://github.com/ynjch97/ynjch97/wiki](https://github.com/ynjch97/ynjch97/wiki)  
   velog [https://velog.io/@ynjch97](https://velog.io/@ynjch97)
   
   <br/><br/>
@@ -47,8 +47,7 @@
   [![ynjch97's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynjch97)](https://github.com/ynjch97)
   
   [![ynjch97's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynjch97&langs_count=5)](https://github.com/ynjch97)
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fynjch97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
 </div>
 

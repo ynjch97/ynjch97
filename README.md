@@ -39,7 +39,7 @@
   
   ## Link
   
-  WIKI [https://github.com/ynjch97/YNJCH_WIKI](https://github.com/ynjch97/YNJCH_WIKI)  
+  WIKI [https://github.com/ynjch97/ynjch97/wiki](https://github.com/ynjch97/ynjch97/wiki)  
   velog [https://velog.io/@ynjch97](https://velog.io/@ynjch97)
   
   <br/><br/>

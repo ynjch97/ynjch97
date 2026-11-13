@@ -42,16 +42,12 @@
   WIKI [https://github.com/ynjch97/ynjch97/wiki](https://github.com/ynjch97/ynjch97/wiki)  
   velog [https://velog.io/@ynjch97](https://velog.io/@ynjch97)
   
-  <br/><br/>
-  
-  [![ynjch97's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynjch97)](https://github.com/ynjch97)
-  
-  [![ynjch97's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynjch97&langs_count=5)](https://github.com/ynjch97)
-
-  
 </div>
 
 <!--
+[![ynjch97's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynjch97)](https://github.com/ynjch97)
+[![ynjch97's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynjch97&langs_count=5)](https://github.com/ynjch97)
+  
 헤더 : https://github.com/kyechan99/capsule-render
 뱃지 아이콘 : https://shields.io/ https://simpleicons.org/
 방문자 : https://hits.seeyoufarm.com/
